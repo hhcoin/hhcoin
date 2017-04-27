@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=HHCoin
+Comment=HHCoin P2P Cryptocurrency
+Comment[fr]=HHCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=HHCoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/hhcoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/hhcoin;
+Categories=Office;

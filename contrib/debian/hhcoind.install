@@ -1,0 +1,2 @@
+debian/bin/hhcoind usr/bin
+src/hhcoind usr/lib/hhcoin

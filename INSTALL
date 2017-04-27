@@ -1,0 +1,9 @@
+Building HHCoin
+
+See doc/readme-qt.rst for instructions on building HHCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of HHCoin.
+
+See doc/build-*.txt for instructions on building hhcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of HHCoin.
